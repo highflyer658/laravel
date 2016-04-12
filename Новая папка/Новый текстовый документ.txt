@@ -1,0 +1,12 @@
+Git для чайников: устанавливаем SmartGit. "Все о Hi-Tech"
+all-ht.ru/inf/prog/git_003.html
+Распределенная система контроля версий Git для чайников, установка SmartGit.
+Установка SmartGit в Ubuntu 14.04 — fastcode.link
+https://fastcode.link/install-smartgit-in-ubuntu-14-04/
+22 июн. 2014 г. - Установка SmartGit в Ubuntu 14.04. Для работы SmartGit необходимо заранее установить в систему OpenJDK: Install OpenJDK
+SmartGit: оболочка для Git в Windows | Механический мир
+https://kuroikaze85.wordpress.com/2009/12/.../smartgit-git-for-windows/
+18 дек. 2009 г. - Во первых, установка удобная. SmartGit сам нашёл мою инсталляцию git'а, взял оттуда имя пользователя и email, запросил только ...
+SmartGit/Hg — Википедия
+https://ru.wikipedia.org/wiki/SmartGit/Hg
+SmartGit/Hg — кроссплатформенный визуальный клиент системы ... окно с выбором типа установки SmartGit в ubuntu стало доступно необходимо:.
